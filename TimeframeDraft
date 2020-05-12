@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h2>Timeframe Draft</h2>
+
+<table>
+  <tr>
+    <th>Day</th>
+    <th>Date</th>
+    <th>Tasks</th>
+  </tr>
+  <tr>
+    <td>Tuesday</td>
+    <td>12th May</td>
+    <td>
+    	<li>Team Profile: (Team name, Personal Information, Group Processes, Career Plans)</li>
+  		<li>Tools</li>
+  		<li>Project Description</li>
+	</td>
+  </tr>
+ 
+ <tr>
+    <td>Friday</td>
+    <td>15th May</td>
+    <td>
+    	<li>Project Idea</li>
+        <li>Overview</li>
+        <li>Aims</li>
+        <li>Plans and Progress</li>
+    </td>
+ </tr>
+  
+  <tr>
+    <td>Tuesday</td>
+    <td>19th May</td>
+    <td>
+    	<li>Plans and Progress (Will be nearly completed )</li>
+        <li>Roles</li>
+        <li>Scope and Limits</li>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Friday</td>
+    <td>22th May</td>
+    <td>
+    	<li>Tools and Technologies</li>
+        <li>Testing</li>
+        <li>Risks</li>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>Tuesday</td>
+    <td>26th May</td>
+    <td>
+    	<li>Group process and communication</li>
+        <li>Skills and Jobs</li>
+        <li>Group Reflection</li>
+    </td>
+  </tr>
+ 
+ <tr>
+    <td>Friday</td>
+    <td>29th May</td>
+    <td>
+    	<li>Editing and putting together into HTML and CSS format, see how it looks</li>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
