@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: centre;
+  padding: 8px;
+}
+
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<h1 style="font-family:arial;">PAHDMA GROUP TABLE</h1>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Agenda</th>
+    <th>Recording</th>
+    <th>Actions</th>
+  </tr>
+  <tr>
+    <td>12/05/2020</td>
+    <td><a href="LINK">Breif Meeting</a></td>
+    <td><a href="LINK">Recording01</a></td>
+    <td><a href="LINK">Actions01</a></td>
+  </tr>
+    
+</table>
+
+</body>
+</html>
