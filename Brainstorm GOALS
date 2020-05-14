@@ -1,0 +1,31 @@
+This is for the project idea section – this part is about Aim and goals. We must define what we are aiming for and set smaller goals that will help us get there.
+
+
+What we want to build: an smart assistance that take voice input and display information on the screen and speaker.
+
+What is needed: software and hardware.
+Hardware: raspberry pi and a display.
+	
+Software: unkown… What can It be:
+-	Start with something already on the market i.e. Mango OS Mirror
+-	Try some of the other open source voice assistant i.e Mycroft
+-	Get started on ours. Code in python, why python? There  big community out there teaching python and many libraries that can be implemented on a our api. Or we can say java, it is just an hypotheses. 
+-	This code can use google speech to text library, it can use other libraries for weather forecast, Wikipedia for general search…
+
+Final goam and aim: 	What is the most important part of our project? What are we aiming to achieve? 
+
+To built an smart assistant device. It will take voice input and display information on the screen. After this part is succeeded, we want to build a case so that the device can be easily built behind mirrors frames. 
+Create/design a smart assistant that will go unnoticed in the house but is accessible to all kind of people.
+
+Smaller goals:
+1)Learn basics of python
+
+2) build a prototype of the device and run tests using Mango OS and Mycroft
+
+3)Develop a unique feature that makes the device useful. Some application/information that is better when delivered through a mirror. 
+No clue for something on the living room… I think the weather forecast is better delivered trough our smart mirror. How about the time of the next tram passing by your tram stop.
+For the bedroom, for example, when you wake up and is getting ready it can be helpful to have the weather + what is scheduled for your day, sleep status, exercises for the past 3 days status… 
+
+
+
+
