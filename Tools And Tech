@@ -1,0 +1,20 @@
+Tools and Technologies
+The AI Smart Mirror requires a display screen, in which a microphone is installed along with a speaker to allow the user to get audio and video feedback. These components will be built on a Raspberry Pi 4, which is the motherboard responsible for the crucial processing tasks of our CPU and RAM.
+
+
+The AI Smart Mirror also needs software, which will initially be sourced from an open source project online and we will use it for the first prototype. From there we will build our own software.
+
+The setup for the software of our device will be developed using the programming language Python. To allow user customization of the product, we will have widgets that can be added or removed from the user interface. Those are applications such as weather for the day, calendar, new email notifications and others. 
+
+In order to develop our own source code we will draw some code packages from Python library and from Google and Wikipedia such as Google speech to text code and Wikipedia library. The function given by these libraries is the ability of transforming speech input into text so it can be understood by our code and wikipedia code gives our device the ability to answer small trivial questions about places, people or objects. This will be mainly used for testing and improvement, because it is open source as well as it is an already completed code. 
+It is important to mention that until this stage this is only an experimental device and we don't need to buy a license to use Google or wikipedia libraries.
+
+Finally, we will also be working on developing a unique feature that can be implemented in our Smart Mirror.
+
+In summary, the main components of our device are:
+Hardware:
+    Raspberry Pi 4, Micro SD as storage, LCD Display and speaker (Size and other characteristics of the display still to be discussed during the week allocated for building the prototype). A two-way mirror to build our device in.
+Software: 
+    Open source code from Mycroft AI to test first prototype and later our own code in Python language. For the experimental part of the device we will use Google Assistant SDK.
+
+
