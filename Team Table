@@ -31,13 +31,13 @@ td, th {
   </tr>
   <tr>
     <td>12/05/2020</td>
-    <td><a href="LINK">Brief Meeting</a></td>
+    <td><a href="LINK">Meeting01</a></td>
     <td><a href="https://web.microsoftstream.com/video/009bb24a-9ee4-42ea-b617-be471aa2741e">Recording01</a></td>
     <td><a href="https://i.gyazo.com/d60a0a573fe7327bf3fdceeab093b4ec.png">Actions01</a></td>
   </tr>
     <tr>
     <td>14/05/2020</td>
-    <td><a href="LINK">Dr.B Meeting</a></td>
+    <td><a href="https://i.gyazo.com/ae5426d4d17c5147f1d2eed89edf19f9.png">Dr.B Meeting</a></td>
     <td><a href="https://web.microsoftstream.com/video/eda3a165-fc61-4995-897d-bd338019850a">Recording02</a></td>
     <td><a href="">No Actions</a></td>
   </tr>  
@@ -47,6 +47,12 @@ td, th {
     <td><a href="LINK">Meeting03</a></td>
     <td><a href="https://web.microsoftstream.com/video/21c78d2c-7796-4252-a229-c7397e76d6f3">Recording03</a></td>
     <td><a href="https://i.gyazo.com/443997c00bca42c9ab3d663e092609c5.png">Actions02</a></td>
+  </tr>  
+   <tr>
+    <td>22/05/2020</td>
+    <td><a href="LINK">Meeting04</a></td>
+    <td><a href="https://web.microsoftstream.com/video/2fd5f385-6111-4462-89ba-f650add24e85">Recording04</a></td>
+    <td><a href="https://i.gyazo.com/443997c00bca42c9ab3d663e092609c5.png">Actions04</a></td>
   </tr>  
 </table>
 
