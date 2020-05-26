@@ -53,7 +53,10 @@ tr:nth-child(even) {
     reflecting and obtaining the feedback from assignment 2 means that we can turn what we did badly on in the
     previous assignment and fix it in the current assignment. After when we have looked back on the pros and cons
     of our previous assignment, we would discuss with the roles that each individuals would like to do or allocate
-    roles that fit to the individual's past experience. 
+    roles that fit to the individual's past experience. By allocating the roles/jobs to each team member of their
+    liking, will mean that they will enjoy doing the task given and will complete it to the best of their ability.
+    Once the roles/jobs are allocated, the group will discuss with one another of what would make the Smart Mirror 
+    unique in comparison to other products like Google Home.
     </td>
  </tr>
  
@@ -64,7 +67,12 @@ tr:nth-child(even) {
         <li>Finalise sections by editing and proofreading</li>
     </td>
     <td>
-    	
+    During week 3, the group members will come together and update on what have been started on or what has been
+    completed that was given in the previous weeks. If any members are unable to complete the given work, any of
+    members in the group that have some extra time on their hands can help assist the individual that needs help
+    to ensure that work is spread out equally and fairly. When majority of the tasks are completed, we will
+    allocate some individuals to edit the sections of work in the assignment, ensuring that it fits the assignment
+    specifications and edit out words or spelling to make it more coherent.
     </td>
  </tr>
  
@@ -76,7 +84,14 @@ tr:nth-child(even) {
         <li>Final check and sumbit assignment</li>
     </td>
     <td>
-    	
+    This is week 4 of the project where all documents for assignment 3 should have been edited, proof-read and
+    improved to then by added in the groups repository in each individual's branch to reflect the work done by
+    each individual. Once all the documents are uploaded into the groups respository, a member will bring all
+    files and documents into the master branch where all the completed work will be brought together. Another 
+    individual will take all the documents and files from the master branch and put it together on a AWS website
+    where they will host a HTML website that contains CSS and design the website to look neat and tidy. The files
+    and documents will then be added to the website which will then be double checked and be submitted to the
+    assignment 3 link to the group website.
     </td>
  </tr>
  
@@ -87,7 +102,13 @@ tr:nth-child(even) {
         <li>Create a survey to get feedback from the user whether it is online or face-to-face interview (Get their consent to conduct the testing and survey)</li>
     </td>
     <td>
-    	
+    In week 5, we would create a physical or paper protoype to create an understand of how it will look, what are
+    the functions of the mirror and how will it help assist the end user. The very first prototype will be simple
+    to ensure that it is not overcomplicated and easy to understand for everyone. After creating the protoype, we
+    would need to receive feedback from random indivduals, which will be done through beta testing, to understand
+    their perspective of the Smart Mirror and use the feedback to improve the prototype. We would ensure to ask 
+    for their consent if they would like to take part of the face-to-face interview or online survey to ensure 
+    that their private information is secured and obtain the necessary feedback to improve the product.
     </td>
  </tr>
  
@@ -99,7 +120,7 @@ tr:nth-child(even) {
         <li>Improve the prototype with the feedback received</li>
     </td>
     <td>
-    	
+    
     </td>
  </tr>
  
