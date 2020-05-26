@@ -21,72 +21,172 @@ tr:nth-child(even) {
 </head>
 <body>
 
-<h2>Timeframe Draft</h2>
+<h2>Timeframe</h2>
 
 <table>
   <tr>
-    <th>Day</th>
-    <th>Date</th>
+    <th>Week</th>
     <th>Tasks</th>
+    <th>Summary</th>
   </tr>
   <tr>
-    <td>Tuesday</td>
-    <td>12th May</td>
+    <td>1</td>
     <td>
-    	<li>Team Profile: (Team name, Personal Information, Group Processes, Career Plans)</li>
-  		<li>Tools</li>
-  		<li>Project Description</li>
-	</td>
+    	<li>Meet with group to discuss the requirements for assignment 3 </li>
+  		<li>Create a checklist and a planned structure for assignment 3 </li>
+   	</td>
+    <td>
+    
+    </td>
   </tr>
  
  <tr>
-    <td>Friday</td>
-    <td>15th May</td>
+    <td>2</td>
     <td>
-    	<li>Project Idea</li>
-        <li>Overview</li>
-        <li>Aims</li>
-        <li>Plans and Progress</li>
+    	<li>Review the feedback that was received in assignment 2 and understand what we did well and what we could improve on in the current assignment</li>
+        <li>Allocating the jobs and roles within the group</li>
+        <li>Discuss what are the goals of our project and work on what could be the unique feature of our product.</li>
+    </td>
+    <td>
+    	
     </td>
  </tr>
-  
-  <tr>
-    <td>Tuesday</td>
-    <td>19th May</td>
-    <td>
-    	<li>Plans and Progress (Will be nearly completed )</li>
-        <li>Roles</li>
-        <li>Scope and Limits</li>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Friday</td>
-    <td>22th May</td>
-    <td>
-    	<li>Tools and Technologies</li>
-        <li>Testing</li>
-        <li>Risks</li>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>Tuesday</td>
-    <td>26th May</td>
-    <td>
-    	<li>Group process and communication</li>
-        <li>Skills and Jobs</li>
-        <li>Group Reflection</li>
-    </td>
-  </tr>
  
- <tr>
-    <td>Friday</td>
-    <td>29th May</td>
+  <tr>
+    <td>3</td>
     <td>
-    	<li>Editing and putting together into HTML and CSS format, see how it looks</li>
+    	<li>Conclude the writing of pending sections </li>
+        <li>Finalise sections by editing and proofreading</li>
     </td>
-  </tr>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>4</td>
+    <td>
+    	<li>Review all the documents submitted on the Git repository </li>
+        <li>Deployment of the website with the documents</li>
+        <li>Final check and sumbit assignment</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>5</td>
+    <td>
+    	<li>Build a prototype and a plan for user testing (Physical or paper)</li>
+        <li>Create a survey to get feedback from the user whether it is online or face-to-face interview (Get their consent to conduct the testing and survey)</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>6</td>
+    <td>
+    	<li>Analysing the initial feedback received from user understanding what features need to be worked on</li>
+        <li>Planning on how to approach the new changes</li>
+        <li>Improve the prototype with the feedback received</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>7</td>
+    <td>
+    	<li>Further testing with the new and improved changes</li>
+        <li>Monitor feedback and check on progress</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>8</td>
+    <td>
+    	<li>Understand the progress that has been made in the project/li>
+        <li>Check with each group member if they are happy with the roles that they are given out and if not, try to switch some roles around to allow all members in the group to do what they would like to do</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>9</td>
+    <td>
+    	<li>Further research on relevant tools, techniques and technologies to improve and refine the project</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>10</td>
+    <td>
+    	<li>Create an understanding of the skills that each member has so that the roles and tasks can be given out based on the members experience in the area</li>
+        <li>Discuss with the group on how to implement the feedback received and more information based in the previous week</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>11</td>
+    <td>
+    	<li>Create a final prototype to receive final feedback to then be used to create the end product, the Smart Mirror </li>
+        <li>Discuss the final feedback received from the final prototype </li>
+        <li>When completed the discussion, hand our roles or who wants to do what with the group members</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>12</td>
+    <td>
+    	<li>Collect findings from feedback and apply to end product</li>
+        <li>Update final report and other documentation</li>
+        <li>Update the progress made with the Smart Mirror with the group</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>13</td>
+    <td>
+    	<li>Group meeting, discuss what final things need to be done</li>
+        <li>Last product test, check if it meets up to all standards and satisfies users needs from feedback</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
+  <tr>
+    <td>14</td>
+    <td>
+    	<li>Finalise and review final report and other documentations</li>
+        <li>Finalise the end product and produce the product</li>
+    </td>
+    <td>
+    	
+    </td>
+ </tr>
+ 
 </table>
 
 </body>
