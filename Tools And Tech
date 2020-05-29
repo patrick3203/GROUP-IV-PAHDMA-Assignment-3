@@ -13,7 +13,7 @@ Finally, we will also be working on developing a unique feature that can be impl
 
 In summary, the main components of our device are:
 Hardware:
-    Raspberry Pi 4, Micro SD as storage, LCD Display and speaker (Size and other characteristics of the display still to be discussed during the week allocated for building the prototype). A two-way mirror to build our device in.
+    Raspberry Pi b+, Micro SD as storage, LCD Display and speaker (Size and other characteristics of the display still to be discussed during the week allocated for building the prototype). A two-way mirror to build our device in.
 Software: 
     Open source code from Mycroft AI to test first prototype and later our own code in Python language. For the experimental part of the device we will use Google Assistant SDK.
 
