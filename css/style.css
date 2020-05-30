@@ -53,11 +53,13 @@ h1 {
  color:#477c47;
  font-size:40px;
  }
+
 h2 {
  color:black;
  font-size:18px;
  
  }
+
 h3 {
 	color:#bd4b90;
 	font-size:24px;
@@ -83,3 +85,14 @@ h5 {
 	display: inline-block;
 	
 }
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+  }
+  th, td {
+	
+  }
+  th {
+	text-align: center;
+  }
